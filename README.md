@@ -1,6 +1,5 @@
 # my_printf
-
-{EPITECH} | First year | Unix System programming project
+# {EPITECH} | First year | Unix System programming project
 
 You must recode the printf function from the C library according to the C99 standard. 
 Your function should be prototyped like the printf function.
@@ -19,17 +18,18 @@ See the subject for further details !
 
 ========================
 
-1st semester Unix System programming (part I) unit
+## 1st semester Unix System programming (part I) unit
 
 Grade : D | Mark : 1.5
 
-Score : 39.6%
-
-  - Base tests : 62.5% --- 5/8 (/!\ 1 crashed)
-  - Easy tests : 76.9% --- 10/13
-  - Medium tests : 66.7% --- 4/6
-  - Easy format tests : 0% --- 0/9
-  - Medium format tests : 0% --- 0/6
-  - Hard format tests : 0% --- 0/6
+| Category            | Percentage | Tests     | Crash ?     |
+|---------------------|------------|-----------|-------------|
+| Base tests          | 62.5%      | 5/8       | Yes (1)     |
+| Easy tests          | 76.9%      | 10/13     | x           |
+| Medium tests        | 66.7%      | 4/6       | x           |
+| Easy format tests   | 0%         | 0/9       | x           |
+| Medium format tests | 0%         | 0/6       | x           |
+| Hard format tests   | 0%         | 0/6       | x           |
+| **End scores**      | **39.6%**  | **19/48** | **Yes (1)** |
 
 Beware of -42 Epitech students !!!
